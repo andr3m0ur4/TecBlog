@@ -1,2 +1,11 @@
 # TecBlog
-Blog de tecnologia construído utilizando conhecimentos intermediários em HTML e CSS.
+
+Technology Blog built using intermediate knowledge in HTML and CSS.
+
+## Installation
+
+Clone the project on your PC.
+
+## Usage
+
+So, open the root directory in your Browser.
